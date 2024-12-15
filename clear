@@ -1,0 +1,17 @@
+[33mcommit 5ea8ca1d34280f875e74f9c8a331b92bb6f89028[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: abuki <sultanhusen1016@gmail.com>
+Date:   Sat Dec 14 22:17:46 2024 -0800
+
+     added new feature
+
+[33mcommit 5e2a62b50c88c91db4d9506d101de5c8e640c660[m[33m ([m[1;32mmain[m[33m)[m
+Author: abuki <sultanhusen1016@gmail.com>
+Date:   Sat Dec 14 13:19:00 2024 -0800
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit cb201730a59daae52df879eee767766bd1a8e919[m
+Author: abuki <sultanhusen1016@gmail.com>
+Date:   Sat Dec 14 12:43:56 2024 -0800
+
+    added tset.txt file
